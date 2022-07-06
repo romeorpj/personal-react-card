@@ -1,0 +1,32 @@
+/* Using one css file just because its such a small project */
+
+/* || CARD */
+.card {
+	width: 317px;
+	height: 780px;
+	border-radius: 15px;
+	overflow: hidden;
+	border: 3px solid black;
+}
+.card__image {
+	width: 100%;
+    object-fit: contain;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+
+/* || PERSONAL DETAILS */
+.personal{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.personal > h1{
+    color: whitesmoke;
+    font-size: 2.5rem;
+}
+.personal__job-title{
+    color: #F3BF99;
+}
