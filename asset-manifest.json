@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/personal-react-card/static/css/main.27002e18.css",
+    "main.js": "/personal-react-card/static/js/main.58310723.js",
+    "static/media/richard-fortnum-min.jpg": "/personal-react-card/static/media/richard-fortnum-min.b066917807760b71ad29.jpg",
+    "index.html": "/personal-react-card/index.html",
+    "main.27002e18.css.map": "/personal-react-card/static/css/main.27002e18.css.map",
+    "main.58310723.js.map": "/personal-react-card/static/js/main.58310723.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27002e18.css",
+    "static/js/main.58310723.js"
+  ]
+}
