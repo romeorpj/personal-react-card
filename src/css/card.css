@@ -86,12 +86,25 @@
 }
 
 .social-btns >*{
-    color: #918E9B;
+    
    font-size: 2.5rem;
    margin-right: 20px;
-   transition: color 300ms ease-in-out;
+   
 
 }
-.social-btns >*:hover{
+
+
+.social-btns > a:first-of-type{
+color: #02b05f;
+transition: color 300ms ease-in-out;
+}
+.social-btns >a:first-of-type:hover{
+    color: #c6c5c8;
+}
+.social-btns > a:last-of-type{
+color: #fb06ef;
+transition: color 300ms ease-in-out;
+}
+.social-btns >a:last-of-type:hover{
     color: #c6c5c8;
 }
